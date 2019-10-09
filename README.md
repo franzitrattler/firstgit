@@ -15,5 +15,5 @@ WebGL (refres: 1200x720 smallHD)
 NONE
 
 **Lessons Learnd:**
-	- Create a version controlled Unity project
-	- create update a gitignore file
+ - Create a version controlled Unity project
+ - create update a gitignore file
