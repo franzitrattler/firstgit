@@ -1,8 +1,6 @@
 # firstgit
 
-hallo 
-
-Description: Created First Unity Project
+** Description: ** Created First Unity Project
  
 Screenshot: 
 Development Plattform: macOS Mojave
