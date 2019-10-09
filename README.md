@@ -6,10 +6,10 @@ Created First Unity Project
 **Screenshot:**
 
 **Development Plattform:**
-macOS Mojave
+macOS Mojave, Uity version 2019.1.14f1
 
 **Target Plattform:**
-WebGL 
+WebGL (refres: 1200x720 smallHD)
 
 **Third Party Materials:**
 NONE
